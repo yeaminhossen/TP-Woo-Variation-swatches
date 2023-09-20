@@ -1,0 +1,230 @@
+.tpoffcanvas__input form {
+    position: relative;
+}
+
+.tpoffcanvas__instagram li.zoom-instagram-widget__item.media-icons-hover img {
+    width: 85px!important;
+}
+
+@media only screen and (max-width: 800px) {
+    .tpoffcanvas__instagram .zoom-instagram.feed-121 .zoom-instagram-widget__items img {
+        width: 55px!important;
+    }
+}
+
+.tp-offcanvas-area .insta-gallery-item-wrap {
+    border-radius: 10px;
+}
+
+.tpoffcanvas__instagram  .hover-layout.zoom-instagram-widget__overlay.zoom-instagram-widget__black {
+    display: none;
+}
+
+.tpoffcanvas__instagram  li.zoom-instagram-widget__item.media-icons-hover {
+    display: inline-block;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.admin-bar div#header-sticky.wp-header-1,
+.admin-bar div#header-sticky.wp-header-2.header-sticky,
+.admin-bar div#header-sticky.wp-header-3.header-sticky,
+.admin-bar div#header-sticky.wp-header-4.header-sticky,
+.admin-bar div#header-sticky.wp-header-5.header-sticky,
+.admin-bar div#header-sticky.wp-header-6.header-sticky {
+    margin-top: 32px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .admin-bar .header-sticky {
+        padding-top: 48px;
+    }
+}
+
+footer .tp-footer-area ul li {
+    margin-bottom: 15px;
+}
+footer .tp-footer-area ul li:last-child {
+    margin-bottom: 0px;
+}
+
+.breadcrumb-links {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--tp-common-black);
+    background: var(--tp-common-white);
+    height: 70px;
+    line-height: 70px;
+    padding: 0 50px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: 10px;
+    text-transform: capitalize;
+    border-bottom: 3px solid var(--tp-theme-1);
+    box-shadow: 0px 2px 55px rgba(168, 182, 218, 0.32);
+}
+@media only screen and (max-width: 767px) {
+.breadcrumb-links {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+}
+
+.breadcrumb__area .breadcrumb-links a:hover {
+    color: #5956e9;
+}
+
+.breadcrumb__area span.breadcrumb-arrow {
+    margin: 0 7px;
+}
+
+.postbox__audio iframe {
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+.tp-blog-area .basic-pagination ul {
+    padding-left: 0px;
+}
+
+.tp-footer-widget .zoom-instagram .zoom-instagram-widget__items.layout-grid .zoom-instagram-widget__item img {
+    border-radius: 15px;
+}
+.tp-footer-widget .zoom-instagram .zoom-instagram-widget__items.layout-grid .zoom-instagram-widget__item img {
+    border-radius: 15px;
+}
+
+.sidebar__widget-content .rc__post:last-child {
+    margin-bottom: 0;
+}
+
+/* submenu pblm solving */
+.tp-offcanvas-area ul li {
+    list-style: none;
+}
+
+.amfeature__list ul li {
+    list-style: none;
+}
+
+.jobdetails__feature ul li {
+    list-style: none;
+}
+
+.cpprice__list ul li {
+    list-style: none;
+}
+
+.error__item {
+    position: relative;
+    z-index: 2;
+}
+
+h2.error_main_title {
+    font-size: 150px;
+    font-weight: 600;
+    color: #333;
+    line-height: 0.8;
+}
+
+h3.error__title {
+    font-size: 38px;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.error__content p {
+    font-size: 19px;
+    margin-bottom: 25px;
+}
+
+@media (min-width: 992px) {
+    .error__content p {
+        padding: 0 385px;
+    }
+  
+}
+@media (min-width: 1024px){
+    .error__content p {
+        padding: 0 245px;
+    }
+}
+@media (max-width: 1024px){
+    section.error__area {
+        background-color: #fff;
+        padding-top: 110px;
+        padding-bottom: 110px;
+    }
+}
+
+.portfolio-animation-icon {
+    display: none;
+}
+.mean-container .mean-nav ul li li a {
+    padding: 15px 10%!important;
+}
+
+/* widgets */
+.tp-testi-img img, .tp-testimonial-box__testi-slide-img img {
+    width: 60px;
+    height: auto;
+}
+.tp-testimonial-box__testi-slide-img img {
+    width: 90px;
+    height: auto;
+}
+
+.tp-service-tab button {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+
+.tp-blog-img img {
+    width: 100%;
+}
+
+.tp-blog-area .tp-blog-border:last-child {
+    border-right: none;
+}
+
+.tp-project-item-two .portfolio-animation-icon {
+    display: block;
+}
+
+.tp-project-area .tp-project-tab-button button.active:after {
+    background: none;
+}
+
+.amfeature__list ul, .jobdetails__feature ul {
+    padding-left: 0!important;
+}
+
+.jobdetails__feature ul li {
+    margin-bottom: 25px!important; 
+}
+
+/* demo check css */
+.bpblog__item {
+    border-radius: 4px!important;
+    overflow: hidden!important;
+  }
+
+  
+  @media (max-width: 1200px) {
+    .tp-team-area .tp-title-sm {
+        font-size: 50px!important;
+    }
+  }
+
+  .bpblog {
+    position: relative;
+}
+
+.bl-footer__company-info ul li {
+    list-style: none;
+}
